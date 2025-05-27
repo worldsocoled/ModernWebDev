@@ -1,6 +1,6 @@
 # Modern Web Development Trends Blog
 
-[![GitHub Pages](https://img.shields.io/badge/View-Live%20Demo-brightgreen)]([https://worldsocoled.github.io/ModernWebDev.html](https://worldsocoled.github.io/ModernWebDev/))
+[![GitHub Pages](https://img.shields.io/badge/View-Live%20Demo-brightgreen)]([[https://worldsocoled.github.io/ModernWebDev.html](https://worldsocoled.github.io/ModernWebDev/)](https://worldsocoled.github.io/ModernWebDev/))
 
 
 A comprehensive blog article exploring cutting-edge technologies and innovative approaches in contemporary web development, optimized for SEO and user experience.
